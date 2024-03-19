@@ -2,6 +2,10 @@
 using namespace std;
 
 int main() {
+
+    cout << "Nama: Balqies L Ratu Rayya" << endl;
+    cout << "NIM : 2311102313" << endl;
+    
     int maks, a, i = 1, lokasi;
     cout << "Masukkan panjang array: ";
     cin >> a;

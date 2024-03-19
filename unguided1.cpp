@@ -2,6 +2,10 @@
 using namespace std;
 
 int main() {
+
+    cout << "Nama: Balqies L Ratu Rayya" << endl;
+    cout << "NIM : 2311102313" << endl;
+    
     int numbers[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
     cout << "Data array :";

@@ -2,6 +2,10 @@
 using namespace std;
 
 int main() {
+
+    cout << "Nama: Balqies L Ratu Rayya" << endl;
+    cout << "NIM : 2311102313" << endl;
+    
     // Deklarasi array
     int arr[2][3][3];
 
